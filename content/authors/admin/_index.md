@@ -6,7 +6,7 @@ title: Guang Yang 楊光
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name:Guang
+first_name: Guang
 last_name: Yang
 
 # Pronouns (optional)
