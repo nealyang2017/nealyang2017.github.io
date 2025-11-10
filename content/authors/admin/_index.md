@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Guang Yang 楊光
+title: Guang Yang
 
 # Name pronunciation (optional)
 name_pronunciation: ''
